@@ -1,2 +1,2 @@
 Hello, this is a text file.
-Am changed remotely.
+I have been changed remotely.
